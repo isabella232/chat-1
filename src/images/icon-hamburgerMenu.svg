@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="28px" height="23px" viewBox="0 0 28 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_hamburger_menu</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
-        <g id="TopBar" transform="translate(-17.000000, -22.000000)" fill="#FFFFFF">
-            <g id="icon_hamburger_menu" transform="translate(17.000000, 22.000000)">
-                <rect id="Rectangle-2" x="0" y="0" width="28" height="5" rx="2.5"></rect>
-                <rect id="Rectangle-2-Copy" x="0" y="9" width="28" height="5" rx="2.5"></rect>
-                <rect id="Rectangle-2-Copy-2" x="0" y="18" width="28" height="5" rx="2.5"></rect>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="23" version="1.1" viewBox="0 0 28 23"><title>icon_hamburger_menu</title><desc>Created with Sketch.</desc><g id="Symbols" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1" opacity=".8"><g id="TopBar" fill="#FFF" transform="translate(-17.000000, -22.000000)"><g id="icon_hamburger_menu" transform="translate(17.000000, 22.000000)"><rect id="Rectangle-2" width="28" height="5" x="0" y="0" rx="2.5"/><rect id="Rectangle-2-Copy" width="28" height="5" x="0" y="9" rx="2.5"/><rect id="Rectangle-2-Copy-2" width="28" height="5" x="0" y="18" rx="2.5"/></g></g></g></svg>
